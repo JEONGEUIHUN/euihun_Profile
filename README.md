@@ -30,5 +30,5 @@ SamSung Gear 360을 이용해 사진 촬영 후 Unity를 사용해서 개발했�
 https://github.com/JEONGEUIHUN/2020_CapstoneDesign_-Hallym.R.V-
 
 #### ==수상 내역==  
-**2020.12.10 / 2020학년도 2학기 SW캡스톤디자인 경진대회(금상)  
+**2020.12.10 / 2020학년도 2학기 SW캡스톤디자인 경진대회(금상)  **
 <img width = "450" src = "https://user-images.githubusercontent.com/58055104/103350853-ae2b3c00-4ae4-11eb-88ab-eb83ed17532a.jpg">
