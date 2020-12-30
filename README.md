@@ -22,13 +22,13 @@
 
 ### 프로젝트 소개 및 상장
 
-<2020_Hallym_CapstonDesign>
+## <2020_Hallym_CapstonDesign>
 
 작품 소개 -> 
 SamSung Gear 360을 이용해 사진 촬영 후 Unity를 사용해서 개발했으며 VR 장비 VIVE연동, Unity WebGl Platform을 활용해서 Web 주소를 통해서 누구나 RoadView를 확인 할 수 있습니다.
 
 https://github.com/JEONGEUIHUN/2020_CapstoneDesign_-Hallym.R.V-
 
-==수상 내역==  
-2020.12.10 / 2020학년도 2학기 SW캡스톤디자인 경진대회(금상)  
-<img width = "300" src = "https://user-images.githubusercontent.com/58055104/103350853-ae2b3c00-4ae4-11eb-88ab-eb83ed17532a.jpg">
+#### ==수상 내역==  
+**2020.12.10 / 2020학년도 2학기 SW캡스톤디자인 경진대회(금상)  
+<img width = "450" src = "https://user-images.githubusercontent.com/58055104/103350853-ae2b3c00-4ae4-11eb-88ab-eb83ed17532a.jpg">
