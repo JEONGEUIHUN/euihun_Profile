@@ -11,9 +11,23 @@
 2016.03.01 ~ 한림대학교 / 콘텐츠IT(재학)  
 2020.12.28 ~ (주)Softzen 인턴  
 
+--------------------------
+
 ### Programming language
 1. JAVA (Android Studio)
 2. C# (Unity)
 3. SQL, FireBase
 
-### 프로젝트 소개 및 
+--------------------------
+
+### 프로젝트 소개 및 상장
+
+<2020_Hallym_CapstonDesign>
+
+작품 소개 -> 
+SamSung Gear 360을 이용해 사진 촬영 후 Unity를 사용해서 개발했으며 VR 장비 VIVE연동, Unity WebGl Platform을 활용해서 Web 주소를 통해서 누구나 RoadView를 확인 할 수 있습니다.
+
+https://github.com/JEONGEUIHUN/2020_CapstoneDesign_-Hallym.R.V-
+
+==수상 내역==
+2020.12.10 / 2020학년도 2학기 SW캡스톤디자인 경진대회(금상)
