@@ -10,6 +10,13 @@
 
 --------------------------
 
-### 학력  
+### Education  
 2016.03.01 ~ 한림대학교 / 콘텐츠IT(재학)  
 2020.12.28 ~ (주)Softzen 인턴  
+
+### Programming language
+1. JAVA (Android Studio)
+2. C# (Unity)
+3. SQL, FireBase
+
+### 프로젝트 소개 및 
