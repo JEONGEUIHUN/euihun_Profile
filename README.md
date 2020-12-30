@@ -1,6 +1,3 @@
-# euihun_Profile
-
---------------------------
 <img width = "250" src = "https://user-images.githubusercontent.com/58055104/103348310-f8102400-4adc-11eb-9d64-9742a0bff1f9.jpg">
 
 ### 안녕하세요. 마라토너 정의훈입니다.  
